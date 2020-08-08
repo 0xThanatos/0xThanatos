@@ -45,9 +45,11 @@ class Thanapat {
 				],
 			],
 			'freelancer' => [
-				'RMUTTO - Inventory management system (Laravel, .net core)',
-				'kokuyo.co.th (WordPress)',
-				'thai-medal.com (WordPress)'
+				'jobs' => [
+					'RMUTTO - Inventory management system (Laravel, .net core)',
+					'kokuyo.co.th (WordPress)',
+					'thai-medal.com (WordPress)'
+				]
 			]
 		];
 	}
