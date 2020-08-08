@@ -23,7 +23,31 @@ class Thanapat {
 			],
 			'languages' => ['PHP', 'Ruby', 'Python', 'Java', 'C', 'C#', '.Net Core'],
 			'hobbies' => ['Coding', 'Gaming'],
-			'motto' => 'If we are good, people around us must be good together.'
+			'motto' => 'If we are good, people around us must be good together.',
+			'collaborated' => [
+				[
+					'name' => 'Botnoi Consulting',
+					'position' => 'Backend Developer',
+					'languages' => ['python'],
+					'tools' => ['Heroku', 'Line LIFF'],
+					'experiences' => ['chatbot']
+				],
+				[
+					'name' => 'Senna Labs',
+					'position' => 'Backend Developer',
+					'languages' => ['ruby'],
+					'experiences' => [
+						'Ruby on Rails',
+						'Mycloudfulfillment - Order management system',
+						'Mycloudfulfillment - Warehouse management system'
+					]
+				],
+			],
+			'freelancer' => [
+				'RMUTTO - Inventory management system (Laravel, .net core)'
+				'kokuyo.co.th (WordPress)',
+				'thai-medal.com (WordPress)'
+			]
 		];
 	}
 
@@ -98,7 +122,7 @@ class Thanapat {
 # 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
 - 💻 macOS / Ubuntu / Debian
-- 🍺 PHP Laravel
+- 🍺 PHP Laravel / *WordPress (Freelancer)*
 - 🐋 Docker / Docker Compose
 - ⚙️ DevOps
 - 🧱 Solution Architect
