@@ -1,8 +1,9 @@
 
 # Hi, Im Thanapat!
 
-- 𝗜 𝗮𝗺 𝗮 𝗽𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗲𝗿 𝗶𝗻 *Rajamangala University Technology Thanyaburi*
-- 𝗜 ❤️ **Web** 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 !
+- I'm a programmer in **(RMUTT) - Rajamangala University of Technology Thanyaburi**
+- I'm a senior in university.
+- I ❤️ Web programming !
 - <img height="16px" src="https://cdn.svgporn.com/logos/facebook.svg"> [Thanapat Maliphan](https://www.facebook.com/thanatos1995/)
 
 ```php
@@ -44,7 +45,7 @@ class Thanapat {
 				],
 			],
 			'freelancer' => [
-				'RMUTTO - Inventory management system (Laravel, .net core)'
+				'RMUTTO - Inventory management system (Laravel, .net core)',
 				'kokuyo.co.th (WordPress)',
 				'thai-medal.com (WordPress)'
 			]
