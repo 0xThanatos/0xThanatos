@@ -27,22 +27,34 @@ class Thanapat {
 			'motto' => 'If we are good, people around us must be good together.',
 			'workExperiences' => [
 				[
-					'name' => 'Botnoi Consulting',
-					'position' => 'Backend Developer',
-					'languages' => ['python'],
-					'tools' => ['Heroku', 'Line LIFF'],
-					'experiences' => ['chatbot']
+					'name' 		=> 'Botnoi Consulting',
+					'position' 	=> ['name' => 'Backend Developer', 'level' => 'junior'],
+					'languages' 	=> ['python'],
+					'tools' 	=> ['Heroku', 'Line LIFF'],
+					'experiences' 	=> ['chatbot'],
+					'time'		=> '3 Months'
 				],
 				[
-					'name' => 'Senna Labs',
-					'position' => 'Backend Developer',
-					'languages' => ['ruby'],
-					'experiences' => [
-						'Ruby on Rails',
-						'Mycloudfulfillment - Order management system',
-						'Mycloudfulfillment - Warehouse management system'
-					]
+					'name' 		=> 'Senna Labs',
+					'position' 	=> ['name' => 'Backend Developer', 'level' => 'junior'],
+					'languages' 	=> ['ruby'],
+					'experiences' 	=> [
+						'Mycloudfulfillment - Order management system (Rails)',
+						'Mycloudfulfillment - Warehouse management system (Rails)'
+					],
+					'time'		=> '9 Months'
 				],
+				[
+					'name' 		=> 'Stream I.T. Consulting',
+					'position'	=> ['name' => 'Software Engineer', 'level' => 'internship'],
+					'languages'	=> ['php', 'typescript'],
+					'experiences'	=> [
+						'IoT Platform - Dashboard monitoring for IoT devices (VueJS)',
+						'IoT Platform - Laravel RESTful API (Laravel Swoole)',
+						'Project management (Pivotal Tracker)'
+					],
+					'time'		=> 'Current'
+				]
 			],
 			'freelancer' => [
 				'jobs' => [
