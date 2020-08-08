@@ -60,7 +60,8 @@ class Thanapat {
 					'RMUTTO - Inventory management system (Laravel, .net core)',
 					'Billboard Camera - Real Time Face Recognition & Dashboard (OpenCV Python, Firebase)',
 					'kokuyo.co.th (WordPress)',
-					'thai-medal.com (WordPress)'
+					'thai-medal.com (WordPress)',
+					'bsibroker.co.th (Laravel, Nuxt.JS, WordPress)'
 				]
 			]
 		];
