@@ -8,12 +8,10 @@
 
 ```php
 <?php
-namespace 3tew;
-
 class Thanapat {
 	protected $aboutMe;
 
-	__construct() {
+	function __construct() {
 		$this->aboutMe = [
 			'bio' => [
 				'firstName' => 'Thanapat', // ธนภัทร
@@ -59,7 +57,7 @@ class Thanapat {
 			'freelancer' => [
 				'jobs' => [
 					'RMUTTO - Inventory management system (Laravel, .net core)',
-					'Billboard Camera - Real Time Face Recognition & Dashboard (OpenCV Python, Firebase)'
+					'Billboard Camera - Real Time Face Recognition & Dashboard (OpenCV Python, Firebase)',
 					'kokuyo.co.th (WordPress)',
 					'thai-medal.com (WordPress)'
 				]
@@ -71,6 +69,9 @@ class Thanapat {
 		echo '<pre>'; print_r($this->aboutMe); echo '</pre>';
 	}
 }
+
+$tiew = new Thanapat();
+$tiew->introduceYourself();
 ?>
 ```
 
