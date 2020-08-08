@@ -24,7 +24,7 @@ class Thanapat {
 			'languages' => ['PHP', 'Ruby', 'Python', 'Java', 'C', 'C#', '.Net Core'],
 			'hobbies' => ['Coding', 'Gaming'],
 			'motto' => 'If we are good, people around us must be good together.',
-			'collaborated' => [
+			'workExperiences' => [
 				[
 					'name' => 'Botnoi Consulting',
 					'position' => 'Backend Developer',
