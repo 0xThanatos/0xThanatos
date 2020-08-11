@@ -141,12 +141,12 @@ $tiew->introduceYourself();
 
 # 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
-- 💻 macOS / Ubuntu / Debian
-- 🍺 PHP Laravel / *WordPress (Freelancer)*
-- 🐋 Docker / Docker Compose
-- ⚙️ DevOps
-- 🧱 Solution Architect
-- 📋 Project Manager
+- 💻  macOS / Ubuntu / Debian
+- 🍺  PHP Laravel / *WordPress (Freelancer)*
+- 🐋  Docker / Docker Compose
+- ⚙️  DevOps
+- 🧱  Solution Architect
+- 📋  Project Manager
 
 # 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
 
