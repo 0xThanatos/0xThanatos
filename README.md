@@ -16,7 +16,7 @@ class Thanapat {
 	function __construct() {
 		$this->aboutMe = [
 			'bio' => [
-				"firstName" 	=> 'Thanapat', 	// ธนภัทร
+				'firstName' 	=> 'Thanapat', 	// ธนภัทร
 				'lastName' 	=> 'Maliphan', 	// มะลิพันธุ์
 				'nickName' 	=> 'Tiew', 	// ทิว
 				'birthday' 	=> '01-31-1995',
