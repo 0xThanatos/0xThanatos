@@ -16,11 +16,11 @@ class Thanapat {
 	function __construct() {
 		$this->aboutMe = [
 			'bio' => [
-				'firstName' => 'Thanapat', // ธนภัทร
-				'lastName' => 'Maliphan', // มะลิพันธุ์
-				'nickName' => 'Tiew', // ทิว
-				'birthday' => '01-31-1995',
-				'gender' => 'Male'
+				"firstName" 	=> 'Thanapat', 	// ธนภัทร
+				'lastName' 	=> 'Maliphan', 	// มะลิพันธุ์
+				'nickName' 	=> 'Tiew', 	// ทิว
+				'birthday' 	=> '01-31-1995',
+				'gender' 	=> 'Male'
 			],
 			'languages' => ['PHP', 'Ruby', 'Python', 'Java', 'C', 'C#', '.Net Core'],
 			'hobbies' => ['Coding', 'Gaming'],
