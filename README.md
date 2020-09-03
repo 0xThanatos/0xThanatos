@@ -38,6 +38,7 @@ class Thanapat {
 					'name' 		=> 'Senna Labs',
 					'position' 	=> ['name' => 'Backend Developer', 'level' => 'junior'],
 					'languages' 	=> ['ruby'],
+					'tools'		=> null,
 					'experiences' 	=> [
 						'S&P Food - Sub-branch category management (Rails)',
 						'MyCloud fulfillment - Order management system (Rails)',
@@ -49,6 +50,7 @@ class Thanapat {
 					'name' 		=> 'Stream I.T. Consulting',
 					'position'	=> ['name' => 'Software Engineer', 'level' => 'internship'], // in position of Team Lead IoT Platform
 					'languages'	=> ['php', 'typescript'],
+					'tools'		=> ['CircleCI', 'SonarCloud'],
 					'experiences'	=> [
 						'IoT Platform - Dashboard monitoring for IoT devices (Vue CLI, Bootstrap Vue)',
 						'IoT Platform - Laravel RESTful API (Laravel Swoole)',
