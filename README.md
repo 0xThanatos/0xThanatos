@@ -31,7 +31,7 @@ class Thanapat {
 					'position' 	=> ['name' => 'Backend Developer', 'level' => 'junior'],
 					'languages' 	=> ['python'],
 					'tools' 	=> ['Heroku', 'Line LIFF'],
-					'experiences' 	=> ['chatbot'],
+					'experiences' 	=> ['Chatbot API', 'Web scraping'],
 					'time'		=> '3 Months'
 				],
 				[
@@ -39,30 +39,33 @@ class Thanapat {
 					'position' 	=> ['name' => 'Backend Developer', 'level' => 'junior'],
 					'languages' 	=> ['ruby'],
 					'experiences' 	=> [
-						'Mycloudfulfillment - Order management system (Rails)',
-						'Mycloudfulfillment - Warehouse management system (Rails)'
+						'S&P Food - Sub-branch category management (Rails)',
+						'MyCloud fulfillment - Order management system (Rails)',
+						'MyCloud fulfillment - Warehouse management system (Rails)'
 					],
 					'time'		=> '9 Months'
 				],
 				[
 					'name' 		=> 'Stream I.T. Consulting',
-					'position'	=> ['name' => 'Software Engineer', 'level' => 'internship'],
+					'position'	=> ['name' => 'Software Engineer', 'level' => 'internship'], // in position of Team Lead IoT Platform
 					'languages'	=> ['php', 'typescript'],
 					'experiences'	=> [
-						'IoT Platform - Dashboard monitoring for IoT devices (VueJS)',
+						'IoT Platform - Dashboard monitoring for IoT devices (Vue CLI, Bootstrap Vue)',
 						'IoT Platform - Laravel RESTful API (Laravel Swoole)',
-						'Project management (Pivotal Tracker)'
+						'Project Management - Sprint planning (Agile)',
+						'Solution Architect - Provide technical advice',
+						'DevOps - CI/CD and Basic monitoring'
 					],
-					'time'		=> 'Current'
+					'time'		=> '5 May 2020 - Current'
 				]
 			],
 			'freelancer' => [
 				'jobs' => [
-					'RMUTTO - Inventory management system (Laravel, .net core)',
+					'RMUTTO - In respect of Inventory management system. basic of CRUD (Laravel, .net core)',
 					'Billboard Camera - Real Time Face Recognition & Dashboard (OpenCV Python, Firebase)',
 					'kokuyo.co.th (WordPress)',
 					'thai-medal.com (WordPress)',
-					'bsibroker.co.th (Laravel, Nuxt.JS, WordPress)'
+					'bsibroker.co.th (Laravel, Nuxt.JS, WordPress, Ant Design)'
 				]
 			]
 		];
