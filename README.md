@@ -48,7 +48,7 @@ class Thanapat {
 				],
 				[
 					'name' 		=> 'Stream I.T. Consulting',
-					'position'	=> ['name' => 'Software Engineer', 'level' => 'internship'], // in position of Team Lead IoT Platform
+					'position'	=> ['name' => 'Software Engineer', 'level' => 'Mid-level'], // in position of Team Lead IoT Platform
 					'languages'	=> ['php', 'typescript'],
 					'tools'		=> ['CircleCI', 'SonarCloud', 'Sentry.IO'],
 					'experiences'	=> [
@@ -67,7 +67,8 @@ class Thanapat {
 					'Billboard Camera - Real Time Face Recognition & Dashboard (OpenCV Python, Firebase)',
 					'kokuyo.co.th (WordPress)',
 					'thai-medal.com (WordPress)',
-					'bsibroker.co.th (Laravel, Nuxt.JS, WordPress, Ant Design)'
+					'bsibroker.co.th (Laravel, Nuxt.JS, WordPress, Ant Design)',
+					'Land & House (Server environment setup)'
 				]
 			]
 		];
