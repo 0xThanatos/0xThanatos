@@ -63,12 +63,12 @@ class Thanapat {
 			],
 			'freelancer' => [
 				'jobs' => [
-					'RMUTTO - In respect of Inventory management system. basic of CRUD (Laravel, .net core)',
-					'Billboard Camera - Real Time Face Recognition & Dashboard (OpenCV Python, Firebase)',
+					'RMUTTO - In respect of Inventory management system. basic of CRUD (Laravel, .NET core)',
+					'Billboard Camera - Real-time Face Recognition & Dashboard (OpenCV Python, Laravel)',
 					'kokuyo.co.th (WordPress)',
-					'thai-medal.com (WordPress)',
+					'thaimedal.com (WordPress)',
 					'bsibroker.co.th (Laravel, Nuxt.JS, WordPress, Ant Design)',
-					'Land & House (Server environment setup)'
+					'Land & House Library (Server environment setup)'
 				]
 			]
 		];
@@ -148,7 +148,7 @@ $tiew->introduceYourself();
 # 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
 - 💻  macOS / Ubuntu / Debian
-- 🍺  PHP Laravel / *WordPress (Freelancer)*
+- 🍺  PHP Laravel / Go Gin Framework / *WordPress (Freelancer)*
 - 🐋  Docker / Docker Compose
 - ⚙️  DevOps
 - 🧱  Solution Architect
