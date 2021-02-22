@@ -7,83 +7,6 @@
 - I ❤️ Web programming !
 - <img height="16px" src="https://cdn.svgporn.com/logos/facebook.svg"> [Thanapat Maliphan](https://www.facebook.com/thanatos1995/)
 
-# Introduce Class
-```php
-<?php
-class Thanapat {
-	protected $aboutMe;
-
-	function __construct() {
-		$this->aboutMe = [
-			'bio' => [
-				'firstName' 	=> 'Thanapat', 	// ธนภัทร
-				'lastName' 	=> 'Maliphan', 	// มะลิพันธุ์
-				'nickName' 	=> 'Tiew', 	// ทิว
-				'birthday' 	=> '01-31-1995',
-				'gender' 	=> 'Male'
-			],
-			'languages' => ['PHP', 'Ruby', 'Python', 'Java', 'C', 'C#', '.Net Core'],
-			'hobbies' => ['Coding', 'Gaming'],
-			'motto' => 'If we are good, people around us must be good together.',
-			'workExperiences' => [
-				[
-					'name' 		=> 'Botnoi Consulting',
-					'position' 	=> ['name' => 'Backend Developer', 'level' => 'junior'],
-					'languages' 	=> ['python'],
-					'tools' 	=> ['Heroku', 'Line LIFF'],
-					'experiences' 	=> ['Chatbot API', 'Web scraping'],
-					'time'		=> '3 Months'
-				],
-				[
-					'name' 		=> 'Senna Labs',
-					'position' 	=> ['name' => 'Backend Developer', 'level' => 'junior'],
-					'languages' 	=> ['ruby'],
-					'tools'		=> ['HoundCI'],
-					'experiences' 	=> [
-						'S&P Food - Sub-branch category management (Rails)',
-						'MyCloud fulfillment - Order management system (Rails)',
-						'MyCloud fulfillment - Warehouse management system (Rails)'
-					],
-					'time'		=> '9 Months'
-				],
-				[
-					'name' 		=> 'Stream I.T. Consulting',
-					'position'	=> ['name' => 'Software Engineer', 'level' => 'Mid-level'], // in position of Team Lead IoT Platform
-					'languages'	=> ['php', 'typescript'],
-					'tools'		=> ['CircleCI', 'SonarCloud', 'Sentry.IO'],
-					'experiences'	=> [
-						'IoT Platform - Dashboard monitoring for IoT devices (Vue CLI, Bootstrap Vue)',
-						'IoT Platform - Laravel RESTful API (Laravel Swoole)',
-						'Project Management - Sprint planning (Agile)',
-						'Solution Architect - Provide technical advice',
-						'DevOps - CI/CD and Basic monitoring'
-					],
-					'time'		=> '5 May 2020 - Current'
-				]
-			],
-			'freelancer' => [
-				'jobs' => [
-					'RMUTTO - In respect of Inventory management system. basic of CRUD (Laravel, .NET core)',
-					'Billboard Camera - Real-time Face Recognition & Dashboard (OpenCV Python, Laravel)',
-					'kokuyo.co.th (WordPress)',
-					'thaimedal.com (WordPress)',
-					'bsibroker.co.th (Laravel, Nuxt.JS, WordPress, Ant Design)',
-					'Land & House Library (Server environment setup)'
-				]
-			]
-		];
-	}
-
-	public function introduceYourself() {
-		echo '<pre>'; print_r($this->aboutMe); echo '</pre>';
-	}
-}
-
-$tiew = new Thanapat();
-$tiew->introduceYourself();
-?>
-```
-
 ## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
 
 <table>
@@ -102,8 +25,8 @@ $tiew->introduceYourself();
         <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
       </td>
       <td width="25%" align="center">
-        <span><b>Ant design</b></span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/ant-design.svg">
+        <span><b>TailwindCSS</b></span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
       </td>
     </tr>
     <tr valign="top">
@@ -148,8 +71,8 @@ $tiew->introduceYourself();
 # 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
 - 💻  macOS / Ubuntu / Debian
-- 🍺  PHP Laravel / Go Gin Framework / *WordPress (Freelancer)*
-- 🐋  Docker / Docker Compose
+- 🍺  PHP Laravel / Go Fiber Framework / *WordPress (Freelancer)*
+- 🐋  Docker / Docker Compose / Kubernetes
 - ⚙️  DevOps
 - 🧱  Solution Architect
 - 📋  Project Manager
