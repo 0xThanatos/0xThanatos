@@ -2,7 +2,7 @@
 # Hi, Im Thanapat!
 
 - I'm a Student in **Faculty of Science and Technology** at **Rajamangala University of Technology Thanyaburi**
-- I'm a **Software Engineer** at **Stream I.T. Consulting Co.,Ltd.**.
+- I'm a **Software Engineer** at **Stream I.T. Consulting Co.,Ltd.**
 - I ❤️ Web programming !
 - <img height="16px" src="https://cdn.svgporn.com/logos/facebook.svg"> [Thanapat Maliphan](https://www.facebook.com/thanatos1995/)
 
