@@ -1,9 +1,8 @@
 
 # Hi, Im Thanapat!
 
-- I'm a Student in **Faculty of Science and Technology** at **Rajamangala University of Technology Thanyaburi**
-- I'm a **Software Engineer** at **Stream I.T. Consulting Co.,Ltd.**
-- I ❤️ Web programming !
+- I'm a **Solution Architect** and **Team Lead** of Smart solution & IoT Team at **Stream I.T. Consulting Co.,Ltd.**
+- I ❤️ Web programming and creating the solution to fight the large-scale system!
 - <img height="16px" src="https://cdn.svgporn.com/logos/facebook.svg"> [Thanapat Maliphan](https://www.facebook.com/thanatos1995/)
 
 ## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
@@ -84,8 +83,9 @@
 - 💻  macOS / Debian
 - 🍺  Go Fiber / PHP Laravel / WordPress
 - 🐋  Docker / Docker Compose / Kubernetes
-- ⚙️  DevOps
-- 🧱  Solution Architecture
+- ⚙️  DevOps ... but now, i'm learning to be DevSecOps
+- ⛓  Backend Developer
+- 🧱  Solution Architect
 - 📋  Project Manager
 
 # 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
