@@ -60,8 +60,8 @@
       </td>
       <td width="25%" align="center">
         <span>TimescaleDB</span><br>
-        <small>(SQL)</small><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/mariadb-icon.svg">
+        <small>(Time-series SQL)</small><br><br>
+        <img height="64px" src="https://www.timescale.com/static/logo-8d85a23f2d624c04a918313bd9f11cb6.svg">
       </td>
       <td width="25%" align="center">
         <span>MongoDB</span><br>
