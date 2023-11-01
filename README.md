@@ -1,8 +1,9 @@
 
 # Hi, Im 0xThanatos!
 
-- I'm a **Solution Architect** and **Team Lead** of Smart solution & IoT Team
+- I'm a **Development Director**
 - I ❤️ Web programming and creating the solution to fight the large-scale system!
+- Sometime I do my business in Web 3.0 space 😎
 
 ## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
 
@@ -83,7 +84,8 @@
 - 🍺  Go Fiber / PHP Laravel / .NET Core
 - 🐋  Docker / Docker Swarm / Kubernetes
 - ⚙️  DevOps ... but now, i'm learning to be DevSecOps
-- ⛓  Backend Developer
+- 🥷  Backend Developer
+- ⛓️  Solidity Developer
 - 🧱  Solution Architect
 - 📋  Project Manager
 
