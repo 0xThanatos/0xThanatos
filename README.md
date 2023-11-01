@@ -1,9 +1,8 @@
 
-# Hi, Im Thanapat!
+# Hi, Im 0xThanatos!
 
-- I'm a **Solution Architect** and **Team Lead** of Smart solution & IoT Team at **Stream I.T. Consulting Co.,Ltd.**
+- I'm a **Solution Architect** and **Team Lead** of Smart solution & IoT Team
 - I ❤️ Web programming and creating the solution to fight the large-scale system!
-- <img height="16px" src="https://cdn.svgporn.com/logos/facebook.svg"> [Thanapat Maliphan](https://www.facebook.com/thanatos1995/)
 
 ## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
 
@@ -48,9 +47,9 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/postman.svg">
       </td>
       <td width="25%" align="center">
-        <span>Asana</span><br>
+        <span>Jira Software</span><br>
         <small>(Project Management)</small><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/asana.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/jira.svg">
       </td>
     </tr>
     <tr valign="top">
@@ -60,7 +59,7 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
       </td>
       <td width="25%" align="center">
-        <span>MariaDB</span><br>
+        <span>TimescaleDB</span><br>
         <small>(SQL)</small><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/mariadb-icon.svg">
       </td>
@@ -80,9 +79,9 @@
 
 # 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
-- 💻  macOS / Debian
-- 🍺  Go Fiber / PHP Laravel / WordPress
-- 🐋  Docker / Docker Compose / Kubernetes
+- 💻  macOS / Debian / Ubuntu
+- 🍺  Go Fiber / PHP Laravel / .NET Core
+- 🐋  Docker / Docker Swarm / Kubernetes
 - ⚙️  DevOps ... but now, i'm learning to be DevSecOps
 - ⛓  Backend Developer
 - 🧱  Solution Architect
@@ -90,6 +89,6 @@
 
 # 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=3tew&show_icons=true&count_private=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3tew&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Github stats](https://github-readme-stats.vercel.app/api?username=0xThanatos&show_icons=true&count_private=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xThanatos&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
